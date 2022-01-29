@@ -1,0 +1,3 @@
+D:/Viktoria/BSU/programming/labs_1sem/lab5/cmake-build-debug/CMakeFiles/lab5.dir
+D:/Viktoria/BSU/programming/labs_1sem/lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Viktoria/BSU/programming/labs_1sem/lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
